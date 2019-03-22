@@ -1,4 +1,4 @@
-# task-angular-springbooot
+# task-angular-springboot
 Step to running application in machine:
 
 1 - Git clone application.
